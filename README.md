@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<i>Small Gecko. Big Games.</i>
+<i>ggecko games G de galeno GECKO de gecko</i>
 </p>
 
 <p align="center">
@@ -14,26 +14,23 @@
 
 # 🌟 Bienvenido a GGecko Games
 
-🎮 **GGecko Games** es un pequeño estudio apasionado por crear experiencias divertidas, creativas y únicas.
-
-Aquí experimentamos con:
+🎮 **GGecko Games** somos 2 tun tun pendejurs haciendo juegos super buenos
 
 - 🕹️ Videojuegos indie
 - ⚙️ Prototipos locos
 - 🧪 Experimentos con mecánicas
 - 🎨 Arte pixel y estilos únicos
 
-> Si un gecko puede escalar paredes… también puede crear juegos increíbles.
-
+> rockstar nos tiene envidia
 ---
 
 # 🚀 Proyectos
 
 | Juego | Descripción | Estado |
 |------|-------------|------|
-| 🦎 Gecko Adventure | Plataforma retro con mecánicas rápidas | 🚧 En desarrollo |
-| 👾 Pixel Arena | Arena multijugador estilo arcade | 🧪 Prototipo |
-| 🌌 Cosmic Gecko | Exploración espacial con puzzles | 💡 Idea |
+| 🦎 GTA origins - un nuevo mundo | Juego de mundo abierto  | 🚧 En desarrollo |
+| 👾 Conecta 4 | Arena multijugador estilo arcade | 🧪 en proceso |
+| 🌌 GTA origins | juego de mundo cerrado  | 💡 juego 
 
 ---
 
@@ -75,8 +72,8 @@ Aquí experimentamos con:
 
 # 🌍 Conecta con nosotros
 
-🐦 Twitter  
-🎮 Itch.io  
+🐦 tiktok  
+🎮 phideas
 💬 Discord  
 
 *(Agrega tus links aquí)*
