@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/made-in-abyss-nanachi.gif" width="300">
+<img src="https://i.imgur.com/8J0Z7pG.gif" width="300">
 </p>
 
 ---
@@ -16,10 +16,10 @@
 
 🎮 **GGecko Games** somos 2 desarrolladores haciendo juegos bien god 🚀
 
-- 🕹️ Videojuegos indie
-- ⚙️ Prototipos locos
-- 🧪 Experimentos con mecánicas
-- 🎨 Arte pixel y estilos únicos
+- 🕹️ Videojuegos indie  
+- ⚙️ Prototipos locos  
+- 🧪 Experimentos con mecánicas  
+- 🎨 Arte pixel y estilos únicos  
 
 > *Rockstar nos tiene envidia (real)*
 
@@ -51,7 +51,7 @@
 # 🦎 Gecko Dev Mood
 
 <p align="center">
-<img src="https://media.tenor.com/0Z9r6R9v9b8AAAAC/made-in-abyss-reg.gif" width="350">
+<img src="https://i.imgur.com/Y6XGZxX.gif" width="350">
 </p>
 
 ---
@@ -73,8 +73,6 @@
 - 🎮 Itch.io / GameJolt  
 - 💬 Discord  
 
-*(pon aquí tus links reales pa no quedar como NPC)*
-
 ---
 
 # 🧠 Filosofía
@@ -84,9 +82,10 @@
 ---
 
 <p align="center">
-<img src="https://media.tenor.com/YK-0lDkN6t0AAAAC/made-in-abyss-riko.gif" width="250">
+<img src="https://i.imgur.com/QZ6FQhP.gif" width="250">
 </p>
 
 <p align="center">
 ⭐ Si te gustan nuestros proyectos, ¡dale una estrella!
+</p>
 </p>
