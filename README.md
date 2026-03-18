@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/8J0Z7pG.gif" width="300">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300">
 </p>
 
 ---
@@ -35,43 +35,11 @@
 
 ---
 
-# 🎮 Tecnologías
-
-<p align="center">
-
-![Unity](https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/Code-C%23-purple?style=for-the-badge&logo=csharp)
-![Godot](https://img.shields.io/badge/Engine-Godot-blue?style=for-the-badge&logo=godotengine)
-![Aseprite](https://img.shields.io/badge/Art-Aseprite-orange?style=for-the-badge)
-
-</p>
-
----
-
 # 🦎 Gecko Dev Mood
 
 <p align="center">
-<img src="https://i.imgur.com/Y6XGZxX.gif" width="350">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350">
 </p>
-
----
-
-# 📊 Estadísticas
-
-<p align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
-
-</p>
-
----
-
-# 🌍 Conecta con nosotros
-
-- 🐦 TikTok  
-- 🎮 Itch.io / GameJolt  
-- 💬 Discord  
 
 ---
 
@@ -82,10 +50,5 @@
 ---
 
 <p align="center">
-<img src="https://i.imgur.com/QZ6FQhP.gif" width="250">
-</p>
-
-<p align="center">
-⭐ Si te gustan nuestros proyectos, ¡dale una estrella!
-</p>
+<img src="https://media.giphy.com/media/xT0GqeSlGSRQut9hHG/giphy.gif" width="250">
 </p>
