@@ -53,7 +53,7 @@
 # 🦎 Gecko Dev Mood
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350">
+<img src="[https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF5YTFsMThhZHdnMmY3amx2YTE5b2p0bTh0bDQ3OWM2bm54MXo2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UYMQ5MCmuqXu/giphy.gif)" width="350">
 </p>
 
 ---
